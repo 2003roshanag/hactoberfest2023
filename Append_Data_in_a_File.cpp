@@ -1,7 +1,7 @@
 #include<iostream>
 #include<fstream>
 #include<string.h>
-
+//to apend data
 using namespace std;
 int main()
 {
